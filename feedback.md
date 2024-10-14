@@ -1,0 +1,5 @@
+- Non utilisation de using namespace std
+- Pas de constante pour les limites et les entrées utilisateur ('O' et 'N')
+- Affichage non comforme à ce qui est demandé dans la consigne
+- Il manque la lib cstdlib, utilisation de iomanip non autorisée
+- La prochaine fois, inclure les fichiers de compilation cmake dans votre repo!
